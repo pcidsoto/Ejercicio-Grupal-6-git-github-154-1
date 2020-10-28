@@ -2,4 +2,8 @@ Badable
 
 badabli
 
+<<<<<<< HEAD
 que es un bla bla bla bla bla bla
+=======
+esto es un comentario hecho desde el pc de pedro
+>>>>>>> 465cc9549f44a16127f66d1517b83c708e982e97
